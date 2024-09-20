@@ -73,3 +73,4 @@ cow_data = [input().split() for _ in range(num_cows)]
 
 # Call the function to simulate and print results
 simulate_cows(num_cows, cow_data)
+
