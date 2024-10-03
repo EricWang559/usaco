@@ -2,6 +2,20 @@
     "version": "0.2.0",
     "configurations": [
       {
+        "type": "java",
+        "name": "udderedbutnotherd",
+        "request": "launch",
+        "mainClass": "udderedbutnotherd",
+        "projectName": "usaco_d31aa3a3"
+      },
+      {
+        "type": "java",
+        "name": "daisychains",
+        "request": "launch",
+        "mainClass": "daisychains",
+        "projectName": "usaco_d31aa3a3"
+      },
+      {
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
